@@ -11,5 +11,19 @@
   "_source": "https://github.com/JudasSong/angular-popup.git",
   "_target": "^0.0.1-beta8",
   "_originalSource": "angular-popup",
-  "_direct": true
+  "_direct": true,
+  "authors": [
+    "root <295446101@qq.com>"
+  ],
+  "description": "",
+  "main": "./dist/angular-popup.js",
+  "license": "MIT",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
