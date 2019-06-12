@@ -4,7 +4,7 @@ var version = require('./package.json').version;
 
 module.exports = {
     entry: {
-        'angular-popup': './src/index.js'
+        'angular-ngpopup': './src/index.js'
     },
     output: {
         path: 'dist',
@@ -13,7 +13,7 @@ module.exports = {
     devtool: 'source-map',
     plugins: [
         new ExtractTextPlugin('[name].css'),
-        new webpack.BannerPlugin('popups@' + version + ' | https://github.com/JudasSong/angular-popup')
+        new webpack.BannerPlugin('popups@' + version + ' | https://github.com/JudasSong/angular-ngpopup')
     ],
     externals: {
         angular: 'angular'

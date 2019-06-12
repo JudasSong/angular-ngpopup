@@ -1,15 +1,15 @@
 {
   "name": "angular-ngpopup",
-  "homepage": "https://github.com/JudasSong/angular-popup",
-  "version": "0.0.1-beta8",
-  "_release": "0.0.1-beta8",
+  "homepage": "https://github.com/JudasSong/angular-ngpopup",
+  "version": "0.0.1",
+  "_release": "0.0.1",
   "_resolution": {
     "type": "version",
-    "tag": "v0.0.1-beta8",
+    "tag": "v0.0.1",
     "commit": "17c4d8f7800d93151075fe4745b336f4e0efa845"
   },
-  "_source": "https://github.com/JudasSong/angular-popup.git",
-  "_target": "^0.0.1-beta8",
-  "_originalSource": "angular-popup",
+  "_source": "https://github.com/JudasSong/angular-ngpopup.git",
+  "_target": "^0.0.1",
+  "_originalSource": "angular-ngpopup",
   "_direct": true
 }

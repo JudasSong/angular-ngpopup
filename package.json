@@ -1,9 +1,9 @@
 {
   "name": "angular-ngpopup",
-  "version": "0.0.1-beta8",
+  "version": "0.0.1",
   "readmeFilename": "README.md",
   "description": "基于 AngularJS 的浮层组件",
-  "homepage": "https://github.com/JudasSong/angular-popup",
+  "homepage": "https://github.com/JudasSong/angular-ngpopup",
   "keywords": [
     "angular",
     "dialog",
@@ -14,9 +14,9 @@
   "author": "minant",
   "repository": {
     "type": "git",
-    "url": "https://github.com/JudasSong/angular-popup.git"
+    "url": "https://github.com/JudasSong/angular-ngpopup.git"
   },
-  "main": "./dist/angular-popup.js",
+  "main": "./dist/angular-ngpopup.js",
   "scripts": {
     "min": "webpack -p"
   },
